@@ -57,7 +57,7 @@ const Navbar = () => {
       <nav className="m-auto fixed top-[30px] left-[60px] right-[66px] rounded-xl px-12 py-4 h-[70px] bg-white  flex justify-between items-center shadow-md z-50">
         <Link to="/">
           <img
-            src="../src/assets/Main_Logo.jpg"
+            src="https://d22pimhl2qmbj7.cloudfront.net/public/Main_Logo_0ad2299b54.png?w=256&q=75"
             alt="Wonderla Logo"
             className="h-10 cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out"
           />
