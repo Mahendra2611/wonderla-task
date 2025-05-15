@@ -1,12 +1,19 @@
 # React + Vite
+### Vite Installation
+- npm create vite@latest
+- selected the options followed by cd file_name, npm install and npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tailwindd CSS Installation
+- npm install tailwindcss @tailwindcss/vite
+- configured vite.config.js
+- created styles.css and added link in the html
 
-Currently, two official plugins are available:
+### Github setup
+- create repository on github
+- initialized the new local repository
+- linked the remote repository with local repositroy using git remote add origin remote_repo_link
+- create readme.md file
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+- npm install lucide-react
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

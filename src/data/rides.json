@@ -1,0 +1,113 @@
+{
+  "land": [
+    {
+      "name": "Recoil",
+      "location": "Wonderla Bangalore",
+      "description": "India's first reverse looping roller coaster with high-speed thrills.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/recoil"
+    },
+    {
+      "name": "Equinox",
+      "location": "Wonderla Kochi",
+      "description": "A massive rotating pendulum that gives a 360° spin and thrill.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/equinox"
+    },
+    {
+      "name": "Maverick",
+      "location": "Wonderla Hyderabad",
+      "description": "A thrilling ride that flips and spins at crazy angles.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/maverick"
+    },
+    {
+      "name": "Twin Flip T Rex",
+      "location": "Wonderla Bangalore",
+      "description": "Double-arm rotating monster ride with thrilling loops.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/twin-flip-t-rex"
+    },
+    {
+      "name": "Flash Tower",
+      "location": "Wonderla Kochi",
+      "description": "Free-fall tower ride from great heights at amazing speed.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/flash-tower"
+    }
+  ],
+  "water": [
+    {
+      "name": "Boomerang",
+      "location": "Wonderla Bangalore",
+      "description": "High-speed water slide that swings riders back and forth.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/boomerang"
+    },
+    {
+      "name": "Rain Disco",
+      "location": "Wonderla Hyderabad",
+      "description": "Dance under the rain with lights, music, and fun.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/rain-disco"
+    },
+    {
+      "name": "Wave Pool",
+      "location": "Wonderla Kochi",
+      "description": "Experience ocean-like waves in a massive pool setting.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/wave-pool"
+    },
+    {
+      "name": "Fun Racer",
+      "location": "Wonderla Bangalore",
+      "description": "Race down slippery slides against friends!",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/fun-racer"
+    },
+    {
+      "name": "Lazy River",
+      "location": "Wonderla Hyderabad",
+      "description": "Relax and float around in a calm water stream.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/lazy-river"
+    }
+  ],
+  "kids": [
+    {
+      "name": "Mini Pirate Ship",
+      "location": "Wonderla Kochi",
+      "description": "A gentle swinging pirate ship ride for children.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/mini-pirate-ship"
+    },
+    {
+      "name": "Mini Wheel",
+      "location": "Wonderla Bangalore",
+      "description": "A small version of the classic Ferris wheel for kids.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/mini-wheel"
+    },
+    {
+      "name": "Carousel",
+      "location": "Wonderla Hyderabad",
+      "description": "Colorful rotating horses for little adventurers.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/carousel"
+    },
+    {
+      "name": "Flying Jumbo",
+      "location": "Wonderla Kochi",
+      "description": "Elephant-themed ride where kids gently fly in circles.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/flying-jumbo"
+    },
+    {
+      "name": "Mini Express",
+      "location": "Wonderla Bangalore",
+      "description": "A fun train ride for toddlers and small children.",
+      "video": "https://d22pimhl2qmbj7.cloudfront.net/public/Air_Race_480p_5d9fb9b2f6.mp4",
+      "link": "/rides/mini-express"
+    }
+  ]
+}
