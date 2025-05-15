@@ -15,20 +15,20 @@ import SideMenu from './SideMenu';
 const locations = [
   {
     name: 'KOCHI',
-    image: '../src/assets/Kochi.webp',
+    image: '../src/assets/Kochi.jpg',
   },
   {
     name: 'BANGALORE',
-    image: '../src/assets/Bangalore.webp',
+    image: '../src/assets/Bangalore.jpg',
     subOptions: [
       {
         name: 'Park',
-        image: '../src/assets/bangalore-park.webp',
+        image: '../src/assets/bangalore-park.jpg',
         path: '/bangalore/park',
       },
       {
         name: 'Resort',
-        image: '../src/assets/bangalore-resort.webp',
+        image: '../src/assets/bangalore-resort.jpg',
         path: '/bangalore/resort',
       },
     ],
@@ -36,7 +36,7 @@ const locations = [
   
   {
     name: 'HYDERABAD',
-    image: '../src/assets/Hyderabad.webp',
+    image: '../src/assets/Hyderabad.jpg',
   },
 ];
 
@@ -57,7 +57,7 @@ const Navbar = () => {
       <nav className="m-auto fixed top-[30px] left-[60px] right-[66px] rounded-xl px-12 py-4 h-[70px] bg-white  flex justify-between items-center shadow-md z-50">
         <Link to="/">
           <img
-            src="../src/assets/Main_Logo.webp"
+            src="../src/assets/Main_Logo.jpg"
             alt="Wonderla Logo"
             className="h-10 cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out"
           />

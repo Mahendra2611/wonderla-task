@@ -3,9 +3,9 @@ import { X, MapPin, Info, Link2, Headphones } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const parks = [
-  { name: 'BANGALORE', image: '../src/assets/Bangalore.webp' },
-  { name: 'KOCHI', image: '../src/assets/Kochi.webp' },
-  { name: 'HYDERABAD', image: '../src/assets/Hyderabad.webp' },
+  { name: 'BANGALORE', image: '../src/assets/Bangalore.jpg' },
+  { name: 'KOCHI', image: '../src/assets/Kochi.jpg' },
+  { name: 'HYDERABAD', image: '../src/assets/Hyderabad.jpg' },
 ];
 
 const quickLinks = ['Restaurants', 'Merchandise', 'Events'];
@@ -21,7 +21,7 @@ const SideMenu = ({setShowSidebar}) => {
       <div className="sticky top-0 py-6 bg-white flex justify-between items-center mb-6">
         <Link to="/">
           <img
-            src="../src/assets/Main_Logo.webp"
+            src="../src/assets/Main_Logo.jpg"
             alt="Wonderla Logo"
             className="h-10 cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out"
           />
