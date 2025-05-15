@@ -15,20 +15,20 @@ import SideMenu from './SideMenu';
 const locations = [
   {
     name: 'KOCHI',
-    image: '../src/assets/Kochi.webp',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Kochi_cb42a7a748.jpg?w=96&q=75',
   },
   {
     name: 'BANGALORE',
-    image: '../src/assets/Bangalore.webp',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Bangalore_a29cdf2e2c.jpg?w=96&q=75',
     subOptions: [
       {
         name: 'Park',
-        image: '../src/assets/bangalore-park.webp',
+        image: 'https://www.wonderla.com/_next/image?url=%2Fimages%2Fbangalore-park.png&w=96&q=75',
         path: '/bangalore/park',
       },
       {
         name: 'Resort',
-        image: '../src/assets/bangalore-resort.webp',
+        image: 'https://www.wonderla.com/_next/image?url=%2Fimages%2Fbangalore-resort.png&w=96&q=75',
         path: '/bangalore/resort',
       },
     ],
@@ -36,7 +36,7 @@ const locations = [
   
   {
     name: 'HYDERABAD',
-    image: '../src/assets/Hyderabad.webp',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Hyderabad_44ee040feb.jpg?w=96&q=75',
   },
 ];
 
@@ -57,7 +57,7 @@ const Navbar = () => {
       <nav className="m-auto fixed top-[30px] left-[60px] right-[66px] rounded-xl px-12 py-4 h-[70px] bg-white  flex justify-between items-center shadow-md z-50">
         <Link to="/">
           <img
-            src="../src/assets/Main_Logo.webp"
+            src="https://d22pimhl2qmbj7.cloudfront.net/public/Main_Logo_0ad2299b54.png?w=256&q=75"
             alt="Wonderla Logo"
             className="h-10 cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out"
           />
