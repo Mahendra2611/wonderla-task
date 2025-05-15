@@ -3,9 +3,10 @@ import { X, MapPin, Info, Link2, Headphones } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const parks = [
-  { name: 'BANGALORE', image: '../src/assets/Bangalore.jpg' },
-  { name: 'KOCHI', image: '../src/assets/Kochi.jpg' },
-  { name: 'HYDERABAD', image: '../src/assets/Hyderabad.jpg' },
+
+  { name: 'BANGALORE', image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Bangalore_a29cdf2e2c.jpg?w=96&q=75' },
+  { name: 'KOCHI', image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Kochi_cb42a7a748.jpg?w=96&q=75' },
+  { name: 'HYDERABAD', image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Hyderabad_44ee040feb.jpg?w=96&q=75' },
 ];
 
 const quickLinks = ['Restaurants', 'Merchandise', 'Events'];
@@ -21,7 +22,8 @@ const SideMenu = ({setShowSidebar}) => {
       <div className="sticky top-0 py-6 bg-white flex justify-between items-center mb-6">
         <Link to="/">
           <img
-            src="../src/assets/Main_Logo.jpg"
+
+            src="https://d22pimhl2qmbj7.cloudfront.net/public/Main_Logo_0ad2299b54.png?w=256&q=75"
             alt="Wonderla Logo"
             className="h-10 cursor-pointer hover:scale-110 transition-transform duration-300 ease-in-out"
           />

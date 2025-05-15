@@ -15,20 +15,21 @@ import SideMenu from './SideMenu';
 const locations = [
   {
     name: 'KOCHI',
-    image: '../src/assets/Kochi.jpg',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Kochi_cb42a7a748.jpg?w=96&q=75',
   },
   {
     name: 'BANGALORE',
-    image: '../src/assets/Bangalore.jpg',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Bangalore_a29cdf2e2c.jpg?w=96&q=75',
     subOptions: [
       {
         name: 'Park',
-        image: '../src/assets/bangalore-park.jpg',
+        image: 'https://www.wonderla.com/_next/image?url=%2Fimages%2Fbangalore-park.png&w=96&q=75',
+
         path: '/bangalore/park',
       },
       {
         name: 'Resort',
-        image: '../src/assets/bangalore-resort.jpg',
+        image: 'https://www.wonderla.com/_next/image?url=%2Fimages%2Fbangalore-resort.png&w=96&q=75',
         path: '/bangalore/resort',
       },
     ],
@@ -36,7 +37,7 @@ const locations = [
   
   {
     name: 'HYDERABAD',
-    image: '../src/assets/Hyderabad.jpg',
+    image: 'https://d22pimhl2qmbj7.cloudfront.net/public/Hyderabad_44ee040feb.jpg?w=96&q=75',
   },
 ];
 
